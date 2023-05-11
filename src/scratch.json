@@ -1,0 +1,210 @@
+{
+  "locations": {
+    "1": {
+      "name": "QEW",
+      "lat": 43.336962,
+      "lng": -79.830394,
+      "routes": [
+        {
+          "toId": 2,
+          "distance": 6.062
+        }
+      ]
+    },
+    "2": {
+      "name": "Dundas Street",
+      "lat": 43.383554,
+      "lng": -79.833478,
+      "routes": [
+        {
+          "toId": 3,
+          "distance": 3.847
+        },
+        {
+          "toId": 1,
+          "distance": 6.062
+        }
+      ]
+    },
+    "3": {
+      "name": "Appleby Line",
+      "lat": 43.415415,
+      "lng": -79.820271,
+      "routes": [
+        {
+          "toId": 4,
+          "distance": 4.153
+        },
+        {
+          "toId": 2,
+          "distance": 3.847
+        }
+      ]
+    },
+    "4": {
+      "name": "Bronte Road",
+      "lat": 43.445323,
+      "lng": -79.789933,
+      "routes": [
+        {
+          "toId": 5,
+          "distance": 4.927
+        },
+        {
+          "toId": 3,
+          "distance": 4.153
+        }
+      ]
+    },
+    "5": {
+      "name": "Neyagawa Blvd.",
+      "lat": 43.484361,
+      "lng": -79.766037,
+      "routes": [
+        {
+          "toId": 6,
+          "distance": 3.227
+        },
+        {
+          "toId": 4,
+          "distance": 4.927
+        }
+      ]
+    },
+    "6": {
+      "name": "Trafalgar Road",
+      "lat": 43.508828,
+      "lng": -79.747886,
+      "routes": [
+        {
+          "toId": 7,
+          "distance": 2.917
+        },
+        {
+          "toId": 5,
+          "distance": 3.227
+        }
+      ]
+    },
+    "7": {
+      "name": "Highway 403",
+      "lat": 43.527953,
+      "lng": -79.725364,
+      "routes": [
+        {
+          "toId": 8,
+          "distance": 4.299
+        },
+        {
+          "toId": 6,
+          "distance": 2.917
+        }
+      ]
+    },
+    "8": {
+      "name": "Britannia Road",
+      "lat": 43.552251,
+      "lng": -79.762783,
+      "routes": [
+        {
+          "toId": 9,
+          "distance": 3.073
+        },
+        {
+          "toId": 7,
+          "distance": 4.299
+        }
+      ]
+    },
+    "9": {
+      "name": "Derry Road",
+      "lat": 43.571614,
+      "lng": -79.789898,
+      "routes": [
+        {
+          "toId": 10,
+          "distance": 2.507
+        },
+        {
+          "toId": 8,
+          "distance": 3.073
+        }
+      ]
+    },
+    "10": {
+      "name": "Highway 401",
+      "lat": 43.588201,
+      "lng": -79.810358,
+      "routes": [
+        {
+          "toId": 11,
+          "distance": 5.291
+        },
+        {
+          "toId": 9,
+          "distance": 2.507
+        }
+      ]
+    },
+    "11": {
+      "name": "Mississauga Road",
+      "lat": 43.617749,
+      "lng": -79.762301,
+      "routes": [
+        {
+          "toId": 12,
+          "distance": 3.239
+        },
+        {
+          "toId": 10,
+          "distance": 5.291
+        }
+      ]
+    },
+    "12": {
+      "name": "Mavis Road",
+      "lat": 43.641017,
+      "lng": -79.736903,
+      "routes": [
+        {
+          "toId": 13,
+          "distance": 2.31
+        },
+        {
+          "toId": 11,
+          "distance": 3.239
+        }
+      ]
+    },
+    "13": {
+      "name": "Hurontario",
+      "lat": 43.65363670486258,
+      "lng": -79.71656084060669,
+      "routes": [
+        {
+          "toId": 14,
+          "distance": 2.147
+        },
+        {
+          "toId": 12,
+          "distance": 2.31
+        }
+      ]
+    },
+    "14": {
+      "name": "Highway 410",
+      "lat": 43.668861,
+      "lng": -79.700151,
+      "routes": [
+        {
+          "toId": 15,
+          "distance": 2.223
+        },
+        {
+          "toId": 13,
+          "distance": 2.147
+        }
+      ]
+    }
+  }
+}
